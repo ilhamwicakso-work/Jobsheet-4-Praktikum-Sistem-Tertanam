@@ -1,1 +1,5 @@
-# Jobsheet-4-Praktikum-Sistem-Tertanam
+# PRAKTIKUM SISTEM TERTANAM
+
+## Modul 2 - Dasar-Dasar Bahasa VHDL dan Alur Simulasi Pada VIVADO
+
+### MUHAMMAD ILHAM WICAKSONO - 25090620022
